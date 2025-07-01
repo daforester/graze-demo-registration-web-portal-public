@@ -1,1 +1,0 @@
-import{C as n,G as o}from"./canDo-yC6Rz11q.js";const r=(i=void 0,a=void 0)=>i===void 0?!1:a===void 0?n(i,o.GROUP_TYPE_ORGANISATION).EditOrganisation:n(i,o.GROUP_TYPE_ORGANISATION,a.OrganisationUUID).EditOrganisation;export{r as C};
